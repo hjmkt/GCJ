@@ -24,3 +24,5 @@
 | ABC | A | B | C | D | E | Algorithm & Data Structure |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Q | [![cpp]](/2022/Q/3p.cpp) | [![cpp]](/2022/Q/d.cpp) | [![cpp]](/2022/Q/pc.cpp) | TODO | TODO | - |
+| 1A | [![cpp]](/2022/1A/dot.cpp) | [![cpp]](/2022/1A/es.cpp) | [![cpp]](/2022/1A/w.cpp) | TODO | TODO | - |
+| 2 | [![cpp]](/2022/2/sic.cpp) | [![cpp]](/2022/2/pc.cpp) | TODO | TODO | TODO | - |
